@@ -1,4 +1,4 @@
-⏱️ Rate Limiter Playground
+### ⏱️ Rate Limiter Playground
 
 Welcome to my little corner of chaos where I’m learning (and occasionally fighting) different rate limiting algorithms!
 
